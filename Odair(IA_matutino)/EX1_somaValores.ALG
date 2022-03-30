@@ -1,20 +1,20 @@
 Algoritmo "ex1"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Hiram Amaral 
-// Descrição   : soma de resultados (função)
-// Autor(a)    : Odair José
+// DescriÃ§Ã£o   : soma de valores (funÃ§Ã£o)
+// Autor(a)    : Odair JosÃ©
 // Data atual  : 29/03/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 x,y: inteiro
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   escreval ("Digite o primeiro número:")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+   escreval ("Digite o primeiro nÃºmero:")
    leia(x)
-   escreval ("Digite o segundo número:")
+   escreval ("Digite o segundo nÃºmero:")
    leia(y)
-   escreva ("A soma dos números é:",x+y)
+   escreva ("A soma dos nÃºmeros Ã©:",x+y)
 
 Fimalgoritmo
