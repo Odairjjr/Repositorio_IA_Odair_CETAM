@@ -11,10 +11,10 @@ x,y: inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-   escreval ("Digite o primeiro número:")
+   escreval ("Digite o primeiro n�mero:")
    leia(x)
-   escreval ("Digite o segundo número:")
+   escreval ("Digite o segundo n�mero:")
    leia(y)
-   escreva ("A soma dos números é:",x+y)
+   escreva ("A soma dos n�meros �:",x+y)
 
 Fimalgoritmo
